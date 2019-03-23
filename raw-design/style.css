@@ -1,0 +1,99 @@
+/* * {
+    padding: 0;
+    margin: 0;
+}
+.overflow {
+    overflow: hidden;
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+.logo {
+    width: 25%;
+    float: left;
+}
+.logo img {
+    width: 70%;
+}
+.school_name {
+    font-weight: bold;
+    font-family: initial;
+    text-align: left;
+    padding-top: 34px;
+}
+.school_name h2 {
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.student_detasils_area {
+
+}
+table, th, td {
+    border: solid 1px #000;
+    padding: 10px;
+
+}
+
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.result_border {
+    width: 55%;
+    text-align: center;
+}
+.all_marks_area {
+    margin-bottom: 17px;
+}
+.all_marks{
+    margin-top: 45px;
+    margin-bottom: 25px !important;
+}
+.footer_section {
+    margin-top: -10px;
+}
+.result_name {
+    text-align: center;
+}
+.result_name h3 {
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 1px solid #a69999;
+    display: inline;
+}
+.signature_area {
+    padding-top: 85px;
+}
+.sign {
+    width: 46%;
+    margin-bottom: 1px;
+    height: 2px;
+}
+.average_reult {
+
+}
+.gurdiant {
+text-align: left;
+padding-left: 33px;
+}
+
+.teacher {
+
+}
+.head_teacher {
+    text-align: right;
+    padding-right: 40px;
+}
+.result_name {
+margin-bottom: 25px;
+    
+}
+.sign_area {
+    width: 33%;
+    float: left;
+    text-align: center;
+} */
