@@ -1,0 +1,44 @@
+.school_name {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: initial;
+}
+.logo {
+    height: 80px;
+}
+.logo img {
+    width: 80%;
+}
+
+.result_border {
+    width: 55%;
+    text-align: center;
+}
+.all_marks{
+    margin-top: 45px;
+    margin-bottom: 25px !important;
+}
+.footer_section {
+    margin-top: -10px;
+}
+.student {
+
+}
+
+.teacher {
+
+}
+.parent {
+
+}
+.result_name {
+
+    font-weight: 800;
+}
+.sign {
+    width:50%;
+    margin-bottom: 1px;
+}
+.average_reult {
+
+}
